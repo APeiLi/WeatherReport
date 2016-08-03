@@ -1,0 +1,234 @@
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\MainWindow.baml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\App.g.cs
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\App.baml
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.g.resources
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\78194\Desktop\C# tryCode\Weather\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\Weather\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.g.resources
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.config
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.exe
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\MainWindow.baml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\App.g.cs
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\App.baml
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.g.resources
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\78194\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.config
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.g.resources
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.exe
+C:\Users\Administrator\Desktop\weather项目\Weather20160708\Weather\obj\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.config
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.exe
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Controls\FButton\FButton.baml
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.g.resources
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WeatherProject\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.config
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.exe
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Weather.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\78194\Desktop\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\App.g.cs
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\App.baml
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\MainWindow.baml
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Controls\FButton\FButton.baml
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.g.resources
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\78194\Desktop\WeatherProject\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Weather.exe.config
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.exe
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Weather.exe
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Weather.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Weather.exe.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Weather.exe.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather_Content.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Controls\FButton\FButton.baml
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.g.resources
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WeatherProject\WeatherProject\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
